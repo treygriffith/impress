@@ -1,0 +1,1 @@
+module.exports = require('./impress-hogan.js');

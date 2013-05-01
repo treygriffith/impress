@@ -1,0 +1,10 @@
+{
+	"name": "Impress",
+	"description": "Express in the browser!",
+	"version": "0.0.1",
+	"dependencies": {
+		"jquery": "1.x",
+		"hogan.js": "2.0.x",
+		"history.js": "1.8.x"
+	}
+}
