@@ -1,4 +1,4 @@
-var path = require('./path-browser');
+var path = require('../path-browser');
 
 // xhr
 function sendRequest(url, method, callback) {
