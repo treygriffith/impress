@@ -1,0 +1,7 @@
+{
+	"name": "Impress_Demo",
+	"version": "0.0.1",
+	"dependencies": {
+		"impress": "git://github.com/treygriffith/impress.git"
+	}
+}
